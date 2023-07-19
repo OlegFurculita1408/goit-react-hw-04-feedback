@@ -1,0 +1,13 @@
+.btnFeedback {
+    width: 80px;
+    height: 30px;
+    border: 1px solid black;
+    cursor: pointer;
+    background-color: aliceblue;
+    border-radius: 3px;
+    margin: 5px;
+}
+.btnFeedback:hover {
+    background-color: blue;
+    color: white;
+}
